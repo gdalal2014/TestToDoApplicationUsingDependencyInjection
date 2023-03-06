@@ -1,0 +1,49 @@
+
+*.dll
+*.editorconfig
+*.cache
+.vs/Slalom To Do Application/config/applicationhost.config
+*.v2
+.vs\
+Slalom To Do Application/bin
+Slalom To Do Application/obj
+To Do Application Unit Tests/bin
+To Do Application Unit Tests/obj
+.vs/Slalom To Do Application/v17/.suo
+.vs/Slalom To Do Application/v17/TestStore/0/000.testlog
+.vs/Slalom To Do Application/v17/TestStore/0/testlog.manifest
+To Do Application/bin/Debug/netcoreapp3.1/appsettings.Development.json
+To Do Application/bin/Debug/netcoreapp3.1/appsettings.json
+To Do Application/bin/Debug/netcoreapp3.1/To Do Application.deps.json
+To Do Application/bin/Debug/netcoreapp3.1/To Do Application.exe
+To Do Application/bin/Debug/netcoreapp3.1/To Do Application.pdb
+To Do Application/bin/Debug/netcoreapp3.1/To Do Application.runtimeconfig.dev.json
+To Do Application/bin/Debug/netcoreapp3.1/To Do Application.runtimeconfig.json
+To Do Application/bin/Debug/netcoreapp3.1/To Do Application.Views.pdb
+To Do Application/obj/To Do Application.csproj.nuget.g.targets
+To Do Application/obj/To Do Application.csproj.nuget.g.props
+To Do Application/obj/To Do Application.csproj.nuget.dgspec.json
+To Do Application/obj/Release/netcoreapp3.1/To Do Application.RazorAssemblyInfo.cs
+To Do Application/obj/Release/netcoreapp3.1/To Do Application.AssemblyInfo.cs
+To Do Application/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+To Do Application/obj/project.assets.json
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.Views.pdb
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.RazorTargetAssemblyInfo.cs
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.RazorAssemblyInfo.cs
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.pdb
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.MvcApplicationPartsAssemblyInfo.cs
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.csproj.FileListAbsolute.txt
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.csproj.CopyComplete
+To Do Application/obj/Debug/netcoreapp3.1/To Do Application.AssemblyInfo.cs
+To Do Application/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.To Do Application.Microsoft.AspNetCore.StaticWebAssets.props
+To Do Application/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.To Do Application.props
+To Do Application/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.To Do Application.props
+To Do Application/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.To Do Application.props
+To Do Application/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+To Do Application/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+To Do Application/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+To Do Application/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+To Do Application/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+To Do Application/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+To Do Application/obj/Debug/netcoreapp3.1/apphost.exe
+To Do Application/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
